@@ -1,0 +1,10 @@
+.nav-link{
+    background-color: rgb(59, 90, 190);
+}
+li a:hover {
+    background-color: rgb(238, 85, 85);
+}
+.dropdown-item{
+    background-color: rgb(59, 90, 190);
+    
+}
